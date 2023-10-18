@@ -4,7 +4,9 @@ Welcome to my learning repository, where I document my journey towards becoming 
 
 - **Sysadmin Mastery**: Discover my adventures in system administration, including server management, network configuration, security, and more.
 
-- **Low-Level Programming**: Follow my exploration of low-level languages like C, C++, and assembly, as I unravel the inner workings of hardware and software interaction.
+- **Bash Scripting**: Explore the power of Bash scripting for automation, task simplification, and system management. Learn to create efficient and effective scripts to enhance your sysadmin skills.
+
+- **Low-Level Programming**: Follow my exploration of low-level languages like C, C++, as I unravel the inner workings of hardware and software interaction.
 
 - **Learning Resources**: Find a curated list of valuable resources, tutorials, and courses that have been instrumental in my learning journey.
 

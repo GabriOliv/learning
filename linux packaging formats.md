@@ -1,4 +1,5 @@
 # Summary: Libraries, Flatpak, and Snaps in Linux
+ 📎 https://youtu.be/1lLZ-59xH3Y?si=J8CQIMC5UX70nHYE
 
 - **Shared Libraries:**
   - Shared libraries in Linux reduce redundancy and save disk space.

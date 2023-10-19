@@ -26,5 +26,7 @@
 
 - **supprimer une lettre :** Press **x**
 
+- **:s/test/TEST/g** cherche tout les test et les remplace par TEST en direct 
+
 - **Pour chercher dans un vi :** `/mot` and press **Enter**
 - **Pour naviguer dans les occurrences :** Press **n** or **Shift** + **n** to go back up

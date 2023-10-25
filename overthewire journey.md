@@ -67,7 +67,7 @@ sort data.txt | uniq -u
 UNIQ -U DOIT ETRE UTILISE AVEC SORT car sort va trier et rassembler les occurences car il va trier 
 bandit8 EN632PlfYiZbn3PhVK3XOGSlNInNE00t
 bandit9 G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
-bandit10 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
+bandit10  > 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
 
 base64 -d  data.txt
 
@@ -75,3 +75,29 @@ commande tr pour passer des trucs de lower case à upper case
 cat linux.txt | tr [a-z] [A-Z]
 
 
+cp /home/bandit12/data.txt .
+-p pour préserver les droits 
+Pour copier ICI (le point)
+
+file nous dit par quoi il a été compressé 
+
+Pour renommer un fichier : 
+
+mv nom nomnouveau 
+
+Il faut bien toujours mettre la nouvelle extension pour décompresser, cas rare mais attention sinon ça peut ne pas marcher. 
+
+CTRL + R pour voir l'historique de toutes nos commandes 
+
+tar -xzvf 
+x extraire v verbose v gzip f files 
+quand c'est pas du targz pas besoin de z 
+
+bunzip -dv 
+
+xxd -r  
+revert, convertit un fichier hexa en binaire 
+
+alias pour voir les alias 
+
+faire un --help au lieu d'un man 
